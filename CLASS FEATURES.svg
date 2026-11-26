@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1680pt" height="218pt" viewBox="0 0 1680 218" xmlns:c2pa="http://c2pa.org/manifest">
+<rect width="1680" height="218" fill="#ffffff"/>
+<g id="class-features">
+<text transform="translate(0 22)" x="0" y="0" xml:space="preserve" font-family="Cinzel" font-size="12" font-weight="bold" fill="#333333" letter-spacing="2">CLASS FEATURES</text>
+<g transform="translate(0 32)"><g id="card-bardic-inspiration">
+<path d="M10 0 H260 Q270 0 270 10 V152 Q270 162 260 162 H10 Q0 162 0 152 V10 Q0 0 10 0 Z" fill="#d97099" stroke="#c9c9c9" stroke-width="0.6"/>
+<path d="M11 4 H259 Q266 4 266 11 V151 Q266 158 259 158 H11 Q4 158 4 151 V11 Q4 4 11 4 Z" fill="#ffffff"/>
+<g id="card-bardic-inspiration-title">
+<text transform="matrix(0.899 0 0 1.4 135 27.7)" x="0" y="0" xml:space="preserve" font-family="Cinzel" font-size="20" fill="#C2185B" stroke="#C2185B" stroke-miterlimit="10" letter-spacing="2.23" text-anchor="middle">BARDIC INSPIRATION</text>
+<text transform="matrix(1.073 0 0 1 135 38)" x="0" y="0" xml:space="preserve" font-family="'Tiro Bangla'" font-size="6" font-style="italic" fill="#C2185B" letter-spacing="2.2" text-anchor="middle">BARD FEATURE</text>
+</g>
+<g id="card-bardic-inspiration-range">
+<text transform="matrix(0.82 0 0 0.82 44 55.5)" x="0" y="0" xml:space="preserve" font-family="'Tiro Bangla'" font-size="12" fill="#C2185B" letter-spacing="1.311" text-anchor="middle">Range</text>
+<text transform="matrix(1.000 0 0 1.12 44 68)" x="0" y="0" xml:space="preserve" font-family="'Bodoni 72'" font-size="13" fill="#C2185B" letter-spacing="0.8" text-anchor="middle">60 FT</text>
+<text transform="matrix(0.877 0 0 1 44 75)" x="0" y="0" xml:space="preserve" font-family="'Tiro Bangla'" font-size="5.4" font-style="italic" fill="#C2185B" letter-spacing="0.6" text-anchor="middle">target sees or hears you</text>
+<text transform="matrix(0.82 0 0 0.82 44 90)" x="0" y="0" xml:space="preserve" font-family="'Tiro Bangla'" font-size="12" fill="#C2185B" letter-spacing="1.311" text-anchor="middle">Die</text>
+<text transform="matrix(1.000 0 0 1.12 44 102.5)" x="0" y="0" xml:space="preserve" font-family="'Bodoni 72'" font-size="13" fill="#C2185B" letter-spacing="0.8" text-anchor="middle">d8</text>
+<text transform="matrix(0.944 0 0 1 44 109.5)" x="0" y="0" xml:space="preserve" font-family="'Tiro Bangla'" font-size="5.4" font-style="italic" fill="#C2185B" letter-spacing="0.6" text-anchor="middle">Bardic Inspiration die</text>
+</g>
+<g id="card-bardic-inspiration-icon" transform="translate(98 48) scale(0.62)"><g><path d="M14.84 78.79 A14 10 -20 1 0 41.16 69.21 A14 10 -20 1 0 14.84 78.79 Z" fill="#C2185B"/><path d="M54.84 70.79 A14 10 -20 1 0 81.16 61.21 A14 10 -20 1 0 54.84 70.79 Z" fill="#C2185B"/><path d="M41 24 H42 Q45 24 45 27 V73 Q45 76 42 76 H41 Q38 76 38 73 V27 Q38 24 41 24 Z" fill="#C2185B"/><path d="M81 16 H82 Q85 16 85 19 V65 Q85 68 82 68 H81 Q78 68 78 65 V19 Q78 16 81 16 Z" fill="#C2185B"/><path d="M38.00 24.00 L85.00 10.00 L85.00 28.00 L38.00 42.00 Z" fill="#84103e"/><path d="M14.00 16.00 L16.12 21.88 L22.00 24.00 L16.12 26.12 L14.00 32.00 L11.88 26.12 L6.00 24.00 L11.88 21.88 Z" fill="#dc79a0"/><path d="M90.00 77.00 L91.84 82.16 L97.00 84.00 L91.84 85.84 L90.00 91.00 L88.16 85.84 L83.00 84.00 L88.16 82.16 Z" fill="#dc79a0"/></g></g>
+<g id="card-bardic-inspiration-properties">
+<text transform="matrix(1.0 0 0 1 177.0 59.20)" x="0" y="0" xml:space="preserve" fill="#C2185B"><tspan font-family="Cinzel" font-size="5.2" font-weight="bold" letter-spacing="0.4">GIVES</tspan><tspan font-family="'Tiro Bangla'" font-size="6" letter-spacing="0.1" dx="3">one other creature a</tspan></text>
+<text transform="matrix(1.0 0 0 1 177.0 66.20)" x="0" y="0" xml:space="preserve" font-family="'Tiro Bangla'" font-size="6" fill="#C2185B" letter-spacing="0.1">Bardic Inspiration die</text>
+<text transform="matrix(1.0 0 0 1 177.0 73.20)" x="0" y="0" xml:space="preserve" fill="#C2185B"><tspan font-family="Cinzel" font-size="5.2" font-weight="bold" letter-spacing="0.4">USE IT</tspan><tspan font-family="'Tiro Bangla'" font-size="6" letter-spacing="0.1" dx="3">within 1 hour, when</tspan></text>
+<text transform="matrix(1.0 0 0 1 177.0 80.20)" x="0" y="0" xml:space="preserve" font-family="'Tiro Bangla'" font-size="6" fill="#C2185B" letter-spacing="0.1">it fails a D20 Test, roll the</text>
+<text transform="matrix(1.0 0 0 1 177.0 87.20)" x="0" y="0" xml:space="preserve" font-family="'Tiro Bangla'" font-size="6" fill="#C2185B" letter-spacing="0.1">die and add it</text>
+<text transform="matrix(1.0 0 0 1 177.0 94.20)" x="0" y="0" xml:space="preserve" fill="#C2185B"><tspan font-family="Cinzel" font-size="5.2" font-weight="bold" letter-spacing="0.4">LIMIT</tspan><tspan font-family="'Tiro Bangla'" font-size="6" letter-spacing="0.1" dx="3">a creature holds one</tspan></text>
+<text transform="matrix(1.0 0 0 1 177.0 101.20)" x="0" y="0" xml:space="preserve" font-family="'Tiro Bangla'" font-size="6" fill="#C2185B" letter-spacing="0.1">die at a time</text>
+<text transform="matrix(1.0 0 0 1 177.0 108.20)" x="0" y="0" xml:space="preserve" fill="#C2185B"><tspan font-family="Cinzel" font-size="5.2" font-weight="bold" letter-spacing="0.4">REGAIN</tspan><tspan font-family="'Tiro Bangla'" font-size="6" letter-spacing="0.1" dx="3">Short or Long Rest</tspan></text>
+</g>
+<g id="card-bardic-inspiration-cost">
+<circle cx="13.4" cy="129.3" r="3.6" fill="none" stroke="#C2185B" stroke-width="0.8"/>
+<circle cx="13.4" cy="129.3" r="1.3" fill="#C2185B"/>
+<text transform="matrix(1.073 0 0 1 20.6 126.6)" x="0" y="0" xml:space="preserve" font-family="'Tiro Bangla'" font-size="5.4" font-style="italic" fill="#C2185B" letter-spacing="0.4">Uses</text>
+<text transform="matrix(1.000 0 0 1 20.6 134.2)" x="0" y="0" xml:space="preserve" font-family="'Tiro Bangla'" font-size="7.4" fill="#C2185B" letter-spacing="0.3">3 / Short Rest</text>
+</g>
+<g id="card-bardic-inspiration-damage">
+<text transform="matrix(1.073 0 0 1 9.6 147.3)" x="0" y="0" xml:space="preserve" font-family="Cinzel" font-size="9.618" font-weight="500" fill="#C2185B" letter-spacing="0.93">INSPIRES :</text>
+<text transform="matrix(1.073 0 0 1.4 74.0 147.4)" x="0" y="0" xml:space="preserve" font-family="'Bodoni 72'" font-size="20.895" font-weight="bold" fill="#C2185B" letter-spacing="1.86">d8</text>
+</g>
+<g id="card-bardic-inspiration-action">
+<text transform="matrix(1.073 0 0 1 258 134.6)" x="0" y="0" xml:space="preserve" font-family="'Tiro Bangla'" font-size="5.6" font-style="italic" fill="#C2185B" letter-spacing="0.5" text-anchor="end">Bonus Action</text>
+<text transform="matrix(1.0 0 0 1 258 147.3)" x="0" y="0" xml:space="preserve" font-family="Cinzel" font-size="11" font-weight="500" fill="#C2185B" letter-spacing="1.0" text-anchor="end">BONUS</text>
+</g>
+<g id="card-bardic-inspiration-strip">
+<g transform="translate(-532.059 -730.829)"><path d="M544.959 881.029 L789.159 881.029 C790.982 881.029 792.459 882.506 792.459 884.329 L792.459 884.329 C792.459 886.152 790.982 887.629 789.159 887.629 L544.959 887.629 C543.136 887.629 541.659 886.152 541.659 884.329 L541.659 884.329 C541.659 882.506 543.136 881.029 544.959 881.029 Z" fill="#C2185B" fill-opacity="0.16"/><path d="M545.759 882.029 L547.759 883.179 L547.759 885.479 L545.759 886.629 L543.759 885.479 L543.759 883.179 Z M545.759 882.029 L545.759 884.329 M547.759 885.479 L545.759 884.329 M543.759 885.479 L545.759 884.329" fill="none" stroke="#C2185B" stroke-width="0.5" stroke-linejoin="round"/></g>
+<text transform="matrix(1 0 0 1 17.8 155)" x="0" y="0" xml:space="preserve" font-family="Cinzel" font-size="5" font-weight="bold" fill="#C2185B" letter-spacing="0.5">NO ROLL</text>
+<path d="M72.4 151.4 H72.8 V155.2 H72.4 Z" fill="#C2185B" opacity="0.7"/>
+<text transform="matrix(1 0 0 1 74.8 154.9)" x="0" y="0" xml:space="preserve" font-family="'Tiro Bangla'" font-size="5.50" fill="#C2185B" letter-spacing="0.05">The ally rolls the die only if they choose to use it.</text>
+</g>
+</g></g>
+<g transform="translate(280 32)"><g id="card-cutting-words">
+<path d="M10 0 H260 Q270 0 270 10 V152 Q270 162 260 162 H10 Q0 162 0 152 V10 Q0 0 10 0 Z" fill="#b97bb7" stroke="#c9c9c9" stroke-width="0.6"/>
+<path d="M11 4 H259 Q266 4 266 11 V151 Q266 158 259 158 H11 Q4 158 4 151 V11 Q4 4 11 4 Z" fill="#ffffff"/>
+<g id="card-cutting-words-title">
+<text transform="matrix(1.107 0 0 1.4 135 27.7)" x="0" y="0" xml:space="preserve" font-family="Cinzel" font-size="20" fill="#8E2A8B" stroke="#8E2A8B" stroke-miterlimit="10" letter-spacing="2.23" text-anchor="middle">CUTTING WORDS</text>
+<text transform="matrix(1.073 0 0 1 135 38)" x="0" y="0" xml:space="preserve" font-family="'Tiro Bangla'" font-size="6" font-style="italic" fill="#8E2A8B" letter-spacing="2.2" text-anchor="middle">LORE BARD REACTION</text>
+</g>
+<g id="card-cutting-words-range">
+<text transform="matrix(0.82 0 0 0.82 44 55.5)" x="0" y="0" xml:space="preserve" font-family="'Tiro Bangla'" font-size="12" fill="#8E2A8B" letter-spacing="1.311" text-anchor="middle">Range</text>
+<text transform="matrix(1.000 0 0 1.12 44 68)" x="0" y="0" xml:space="preserve" font-family="'Bodoni 72'" font-size="13" fill="#8E2A8B" letter-spacing="0.8" text-anchor="middle">60 FT</text>
+<text transform="matrix(1.073 0 0 1 44 75)" x="0" y="0" xml:space="preserve" font-family="'Tiro Bangla'" font-size="5.4" font-style="italic" fill="#8E2A8B" letter-spacing="0.6" text-anchor="middle">you can see it</text>
+<text transform="matrix(0.82 0 0 0.82 44 90)" x="0" y="0" xml:space="preserve" font-family="'Tiro Bangla'" font-size="12" fill="#8E2A8B" letter-spacing="1.311" text-anchor="middle">Cost</text>
+<text transform="matrix(1.000 0 0 1.12 44 102.5)" x="0" y="0" xml:space="preserve" font-family="'Bodoni 72'" font-size="13" fill="#8E2A8B" letter-spacing="0.8" text-anchor="middle">1 USE</text>
+<text transform="matrix(1.073 0 0 1 44 109.5)" x="0" y="0" xml:space="preserve" font-family="'Tiro Bangla'" font-size="5.4" font-style="italic" fill="#8E2A8B" letter-spacing="0.6" text-anchor="middle">Bardic Inspiration</text>
+</g>
+<g id="card-cutting-words-icon" transform="translate(98 48) scale(0.62)"><g><path d="M22 12 H78 Q94 12 94 28 V56 Q94 72 78 72 H22 Q6 72 6 56 V28 Q6 12 22 12 Z" fill="#8E2A8B"/><path d="M22.00 70.00 L22.00 94.00 L46.00 70.00 Z" fill="#8E2A8B"/><path d="M31 36 H69 Q74 36 74 41 V42 Q74 47 69 47 H31 Q26 47 26 42 V41 Q26 36 31 36 Z" fill="#efe1ef"/><path d="M84.00 1.00 L85.84 6.16 L91.00 8.00 L85.84 9.84 L84.00 15.00 L82.16 9.84 L77.00 8.00 L82.16 6.16 Z" fill="#bd83bc"/></g></g>
+<g id="card-cutting-words-properties">
+<text transform="matrix(1.0 0 0 1 177.0 55.70)" x="0" y="0" xml:space="preserve" fill="#8E2A8B"><tspan font-family="Cinzel" font-size="5.2" font-weight="bold" letter-spacing="0.4">TRIGGER</tspan><tspan font-family="'Tiro Bangla'" font-size="6" letter-spacing="0.1" dx="3">a creature makes a</tspan></text>
+<text transform="matrix(1.0 0 0 1 177.0 62.70)" x="0" y="0" xml:space="preserve" font-family="'Tiro Bangla'" font-size="6" fill="#8E2A8B" letter-spacing="0.1">damage roll, or succeeds on</text>
+<text transform="matrix(1.0 0 0 1 177.0 69.70)" x="0" y="0" xml:space="preserve" font-family="'Tiro Bangla'" font-size="6" fill="#8E2A8B" letter-spacing="0.1">an ability check or attack roll</text>
+<text transform="matrix(1.0 0 0 1 177.0 76.70)" x="0" y="0" xml:space="preserve" fill="#8E2A8B"><tspan font-family="Cinzel" font-size="5.2" font-weight="bold" letter-spacing="0.4">ROLL</tspan><tspan font-family="'Tiro Bangla'" font-size="6" letter-spacing="0.1" dx="3">your Bardic</tspan></text>
+<text transform="matrix(1.0 0 0 1 177.0 83.70)" x="0" y="0" xml:space="preserve" font-family="'Tiro Bangla'" font-size="6" fill="#8E2A8B" letter-spacing="0.1">Inspiration die</text>
+<text transform="matrix(1.0 0 0 1 177.0 90.70)" x="0" y="0" xml:space="preserve" fill="#8E2A8B"><tspan font-family="Cinzel" font-size="5.2" font-weight="bold" letter-spacing="0.4">SUBTRACT</tspan><tspan font-family="'Tiro Bangla'" font-size="6" letter-spacing="0.1" dx="3">it from the</tspan></text>
+<text transform="matrix(1.0 0 0 1 177.0 97.70)" x="0" y="0" xml:space="preserve" font-family="'Tiro Bangla'" font-size="6" fill="#8E2A8B" letter-spacing="0.1">creature’s roll</text>
+<text transform="matrix(1.0 0 0 1 177.0 104.70)" x="0" y="0" xml:space="preserve" fill="#8E2A8B"><tspan font-family="Cinzel" font-size="5.2" font-weight="bold" letter-spacing="0.4">RESULT</tspan><tspan font-family="'Tiro Bangla'" font-size="6" letter-spacing="0.1" dx="3">less damage, or a</tspan></text>
+<text transform="matrix(1.0 0 0 1 177.0 111.70)" x="0" y="0" xml:space="preserve" font-family="'Tiro Bangla'" font-size="6" fill="#8E2A8B" letter-spacing="0.1">success may become a failure</text>
+</g>
+<g id="card-cutting-words-cost">
+<circle cx="13.4" cy="129.3" r="3.6" fill="none" stroke="#8E2A8B" stroke-width="0.8"/>
+<circle cx="13.4" cy="129.3" r="1.3" fill="#8E2A8B"/>
+<text transform="matrix(1.073 0 0 1 20.6 126.6)" x="0" y="0" xml:space="preserve" font-family="'Tiro Bangla'" font-size="5.4" font-style="italic" fill="#8E2A8B" letter-spacing="0.4">Die</text>
+<text transform="matrix(1.000 0 0 1 20.6 134.2)" x="0" y="0" xml:space="preserve" font-family="'Tiro Bangla'" font-size="7.4" fill="#8E2A8B" letter-spacing="0.3">d8</text>
+</g>
+<g id="card-cutting-words-damage">
+<text transform="matrix(1.073 0 0 1 9.6 147.3)" x="0" y="0" xml:space="preserve" font-family="Cinzel" font-size="9.618" font-weight="500" fill="#8E2A8B" letter-spacing="0.93">SUBTRACT :</text>
+<text transform="matrix(1.073 0 0 1.4 83.2 147.4)" x="0" y="0" xml:space="preserve" font-family="'Bodoni 72'" font-size="20.895" font-weight="bold" fill="#8E2A8B" letter-spacing="1.86">d8</text>
+</g>
+<g id="card-cutting-words-action">
+<text transform="matrix(1.073 0 0 1 258 134.6)" x="0" y="0" xml:space="preserve" font-family="'Tiro Bangla'" font-size="5.6" font-style="italic" fill="#8E2A8B" letter-spacing="0.5" text-anchor="end">Uses your Reaction</text>
+<text transform="matrix(1.0 0 0 1 258 147.3)" x="0" y="0" xml:space="preserve" font-family="Cinzel" font-size="11" font-weight="500" fill="#8E2A8B" letter-spacing="1.0" text-anchor="end">REACTION</text>
+</g>
+<g id="card-cutting-words-strip">
+<g transform="translate(-532.059 -730.829)"><path d="M544.959 881.029 L789.159 881.029 C790.982 881.029 792.459 882.506 792.459 884.329 L792.459 884.329 C792.459 886.152 790.982 887.629 789.159 887.629 L544.959 887.629 C543.136 887.629 541.659 886.152 541.659 884.329 L541.659 884.329 C541.659 882.506 543.136 881.029 544.959 881.029 Z" fill="#8E2A8B" fill-opacity="0.16"/><path d="M545.759 882.029 L547.759 883.179 L547.759 885.479 L545.759 886.629 L543.759 885.479 L543.759 883.179 Z M545.759 882.029 L545.759 884.329 M547.759 885.479 L545.759 884.329 M543.759 885.479 L545.759 884.329" fill="none" stroke="#8E2A8B" stroke-width="0.5" stroke-linejoin="round"/></g>
+<text transform="matrix(1 0 0 1 17.8 155)" x="0" y="0" xml:space="preserve" font-family="Cinzel" font-size="5" font-weight="bold" fill="#8E2A8B" letter-spacing="0.5">NO ROLL</text>
+<path d="M72.4 151.4 H72.8 V155.2 H72.4 Z" fill="#8E2A8B" opacity="0.7"/>
+<text transform="matrix(1 0 0 1 74.8 154.9)" x="0" y="0" xml:space="preserve" font-family="'Tiro Bangla'" font-size="5.50" fill="#8E2A8B" letter-spacing="0.05">You decide after seeing the roll, but before the outcome is announced.</text>
+</g>
+</g></g>
+<g transform="translate(560 32)"><g id="card-font-of-inspiration">
+<path d="M10 0 H260 Q270 0 270 10 V152 Q270 162 260 162 H10 Q0 162 0 152 V10 Q0 0 10 0 Z" fill="#cc6d97" stroke="#c9c9c9" stroke-width="0.6"/>
+<path d="M11 4 H259 Q266 4 266 11 V151 Q266 158 259 158 H11 Q4 158 4 151 V11 Q4 4 11 4 Z" fill="#ffffff"/>
+<g id="card-font-of-inspiration-title">
+<text transform="matrix(0.851 0 0 1.4 135 27.7)" x="0" y="0" xml:space="preserve" font-family="Cinzel" font-size="20" fill="#AD1457" stroke="#AD1457" stroke-miterlimit="10" letter-spacing="2.23" text-anchor="middle">FONT OF INSPIRATION</text>
+<text transform="matrix(1.073 0 0 1 135 38)" x="0" y="0" xml:space="preserve" font-family="'Tiro Bangla'" font-size="6" font-style="italic" fill="#AD1457" letter-spacing="2.2" text-anchor="middle">BARD FEATURE</text>
+</g>
+<g id="card-font-of-inspiration-range">
+<text transform="matrix(0.82 0 0 0.82 44 55.5)" x="0" y="0" xml:space="preserve" font-family="'Tiro Bangla'" font-size="12" fill="#AD1457" letter-spacing="1.311" text-anchor="middle">Regain</text>
+<text transform="matrix(1.000 0 0 1.12 44 68)" x="0" y="0" xml:space="preserve" font-family="'Bodoni 72'" font-size="13" fill="#AD1457" letter-spacing="0.8" text-anchor="middle">ALL</text>
+<text transform="matrix(0.896 0 0 1 44 75)" x="0" y="0" xml:space="preserve" font-family="'Tiro Bangla'" font-size="5.4" font-style="italic" fill="#AD1457" letter-spacing="0.6" text-anchor="middle">Bardic Inspiration uses</text>
+<text transform="matrix(0.82 0 0 0.82 44 90)" x="0" y="0" xml:space="preserve" font-family="'Tiro Bangla'" font-size="12" fill="#AD1457" letter-spacing="1.311" text-anchor="middle">Slot Trade</text>
+<text transform="matrix(1.000 0 0 1.12 44 102.5)" x="0" y="0" xml:space="preserve" font-family="'Bodoni 72'" font-size="13" fill="#AD1457" letter-spacing="0.8" text-anchor="middle">1 SLOT</text>
+<text transform="matrix(1.073 0 0 1 44 109.5)" x="0" y="0" xml:space="preserve" font-family="'Tiro Bangla'" font-size="5.4" font-style="italic" fill="#AD1457" letter-spacing="0.6" text-anchor="middle">for 1 use</text>
+</g>
+<g id="card-font-of-inspiration-icon" transform="translate(98 48) scale(0.62)"><g><path d="M22.00 54.00 L78.00 54.00 L70.00 80.00 L30.00 80.00 Z" fill="#AD1457"/><path d="M44 80 H56 Q58 80 58 82 V86 Q58 88 56 88 H44 Q42 88 42 86 V82 Q42 80 44 80 Z" fill="#760e3b"/><path d="M31 88 H69 Q72 88 72 91 V92 Q72 95 69 95 H31 Q28 95 28 92 V91 Q28 88 31 88 Z" fill="#760e3b"/><path d="M50.00 6.00 L58.00 28.00 L50.00 46.00 L42.00 28.00 Z" fill="#cf779e"/><path d="M24.00 21.00 L26.40 27.60 L33.00 30.00 L26.40 32.40 L24.00 39.00 L21.60 32.40 L15.00 30.00 L21.60 27.60 Z" fill="#AD1457"/><path d="M78.00 18.00 L80.12 23.88 L86.00 26.00 L80.12 28.12 L78.00 34.00 L75.88 28.12 L70.00 26.00 L75.88 23.88 Z" fill="#AD1457"/><path d="M55.66 56.34 L53.00 62.00 L55.66 67.66 L50.00 65.00 L44.34 67.66 L47.00 62.00 L44.34 56.34 L50.00 59.00 Z" fill="#f4dee7"/></g></g>
+<g id="card-font-of-inspiration-properties">
+<text transform="matrix(1.0 0 0 1 177.0 66.20)" x="0" y="0" xml:space="preserve" fill="#AD1457"><tspan font-family="Cinzel" font-size="5.2" font-weight="bold" letter-spacing="0.4">RESTS</tspan><tspan font-family="'Tiro Bangla'" font-size="6" letter-spacing="0.1" dx="3">regain every</tspan></text>
+<text transform="matrix(1.0 0 0 1 177.0 73.20)" x="0" y="0" xml:space="preserve" font-family="'Tiro Bangla'" font-size="6" fill="#AD1457" letter-spacing="0.1">expended Bardic Inspiration</text>
+<text transform="matrix(1.0 0 0 1 177.0 80.20)" x="0" y="0" xml:space="preserve" font-family="'Tiro Bangla'" font-size="6" fill="#AD1457" letter-spacing="0.1">use on a Short or Long Rest</text>
+<text transform="matrix(1.0 0 0 1 177.0 87.20)" x="0" y="0" xml:space="preserve" fill="#AD1457"><tspan font-family="Cinzel" font-size="5.2" font-weight="bold" letter-spacing="0.4">SLOT</tspan><tspan font-family="'Tiro Bangla'" font-size="6" letter-spacing="0.1" dx="3">expend a spell slot to</tspan></text>
+<text transform="matrix(1.0 0 0 1 177.0 94.20)" x="0" y="0" xml:space="preserve" font-family="'Tiro Bangla'" font-size="6" fill="#AD1457" letter-spacing="0.1">regain 1 expended use</text>
+<text transform="matrix(1.0 0 0 1 177.0 101.20)" x="0" y="0" xml:space="preserve" fill="#AD1457"><tspan font-family="Cinzel" font-size="5.2" font-weight="bold" letter-spacing="0.4">ACTION</tspan><tspan font-family="'Tiro Bangla'" font-size="6" letter-spacing="0.1" dx="3">none needed</tspan></text>
+</g>
+<g id="card-font-of-inspiration-cost">
+<circle cx="13.4" cy="129.3" r="3.6" fill="none" stroke="#AD1457" stroke-width="0.8"/>
+<circle cx="13.4" cy="129.3" r="1.3" fill="#AD1457"/>
+<text transform="matrix(1.073 0 0 1 20.6 126.6)" x="0" y="0" xml:space="preserve" font-family="'Tiro Bangla'" font-size="5.4" font-style="italic" fill="#AD1457" letter-spacing="0.4">Cost</text>
+<text transform="matrix(1.000 0 0 1 20.6 134.2)" x="0" y="0" xml:space="preserve" font-family="'Tiro Bangla'" font-size="7.4" fill="#AD1457" letter-spacing="0.3">Spell slot</text>
+</g>
+<g id="card-font-of-inspiration-damage">
+<text transform="matrix(1.073 0 0 1 9.6 147.3)" x="0" y="0" xml:space="preserve" font-family="Cinzel" font-size="9.618" font-weight="500" fill="#AD1457" letter-spacing="0.93">REGAIN :</text>
+<text transform="matrix(1.036 0 0 1.4 70.0 147.4)" x="0" y="0" xml:space="preserve" font-family="'Bodoni 72'" font-size="20.895" font-weight="bold" fill="#AD1457" letter-spacing="1.86">1 USE</text>
+</g>
+<g id="card-font-of-inspiration-action">
+<text transform="matrix(1.073 0 0 1 258 134.6)" x="0" y="0" xml:space="preserve" font-family="'Tiro Bangla'" font-size="5.6" font-style="italic" fill="#AD1457" letter-spacing="0.5" text-anchor="end">No action needed</text>
+<text transform="matrix(1.0 0 0 1 258 147.3)" x="0" y="0" xml:space="preserve" font-family="Cinzel" font-size="11" font-weight="500" fill="#AD1457" letter-spacing="1.0" text-anchor="end">FREE</text>
+</g>
+<g id="card-font-of-inspiration-strip">
+<g transform="translate(-532.059 -730.829)"><path d="M544.959 881.029 L789.159 881.029 C790.982 881.029 792.459 882.506 792.459 884.329 L792.459 884.329 C792.459 886.152 790.982 887.629 789.159 887.629 L544.959 887.629 C543.136 887.629 541.659 886.152 541.659 884.329 L541.659 884.329 C541.659 882.506 543.136 881.029 544.959 881.029 Z" fill="#AD1457" fill-opacity="0.16"/><path d="M545.759 882.029 L547.759 883.179 L547.759 885.479 L545.759 886.629 L543.759 885.479 L543.759 883.179 Z M545.759 882.029 L545.759 884.329 M547.759 885.479 L545.759 884.329 M543.759 885.479 L545.759 884.329" fill="none" stroke="#AD1457" stroke-width="0.5" stroke-linejoin="round"/></g>
+<text transform="matrix(1 0 0 1 17.8 155)" x="0" y="0" xml:space="preserve" font-family="Cinzel" font-size="5" font-weight="bold" fill="#AD1457" letter-spacing="0.5">NO ROLL</text>
+<path d="M72.4 151.4 H72.8 V155.2 H72.4 Z" fill="#AD1457" opacity="0.7"/>
+<text transform="matrix(1 0 0 1 74.8 154.9)" x="0" y="0" xml:space="preserve" font-family="'Tiro Bangla'" font-size="5.40" fill="#AD1457" letter-spacing="0.05">Trade a slot of any level for one Bardic Inspiration use, any time you need it.</text>
+</g>
+</g></g>
+<g transform="translate(840 32)"><g id="card-eldritch-mind">
+<path d="M10 0 H260 Q270 0 270 10 V152 Q270 162 260 162 H10 Q0 162 0 152 V10 Q0 0 10 0 Z" fill="#848ecb" stroke="#c9c9c9" stroke-width="0.6"/>
+<path d="M11 4 H259 Q266 4 266 11 V151 Q266 158 259 158 H11 Q4 158 4 151 V11 Q4 4 11 4 Z" fill="#ffffff"/>
+<g id="card-eldritch-mind-title">
+<text transform="matrix(1.164 0 0 1.4 135 27.7)" x="0" y="0" xml:space="preserve" font-family="Cinzel" font-size="20" fill="#3949AB" stroke="#3949AB" stroke-miterlimit="10" letter-spacing="2.23" text-anchor="middle">ELDRITCH MIND</text>
+<text transform="matrix(1.073 0 0 1 135 38)" x="0" y="0" xml:space="preserve" font-family="'Tiro Bangla'" font-size="6" font-style="italic" fill="#3949AB" letter-spacing="2.2" text-anchor="middle">WARLOCK INVOCATION</text>
+</g>
+<g id="card-eldritch-mind-range">
+<text transform="matrix(0.82 0 0 0.82 44 70.5)" x="0" y="0" xml:space="preserve" font-family="'Tiro Bangla'" font-size="12" fill="#3949AB" letter-spacing="1.311" text-anchor="middle">Saves</text>
+<text transform="matrix(1.000 0 0 1.12 44 83)" x="0" y="0" xml:space="preserve" font-family="'Bodoni 72'" font-size="13" fill="#3949AB" letter-spacing="0.8" text-anchor="middle">ADV.</text>
+<text transform="matrix(0.749 0 0 1 44 90)" x="0" y="0" xml:space="preserve" font-family="'Tiro Bangla'" font-size="5.4" font-style="italic" fill="#3949AB" letter-spacing="0.6" text-anchor="middle">CON to keep Concentration</text>
+</g>
+<g id="card-eldritch-mind-icon" transform="translate(98 48) scale(0.62)"><g><path d="M4.00 50.00 L22.00 30.00 L50.00 20.00 L78.00 30.00 L96.00 50.00 L78.00 70.00 L50.00 80.00 L22.00 70.00 Z" fill="#3949AB"/><path d="M30 50 A20 20 0 1 0 70 50 A20 20 0 1 0 30 50 Z" fill="#e3e6f3"/><path d="M38 50 A12 12 0 1 0 62 50 A12 12 0 1 0 38 50 Z" fill="#273274"/><path d="M41 45 A4 4 0 1 0 49 45 A4 4 0 1 0 41 45 Z" fill="#e3e6f3"/><path d="M86.00 4.00 L88.12 9.88 L94.00 12.00 L88.12 14.12 L86.00 20.00 L83.88 14.12 L78.00 12.00 L83.88 9.88 Z" fill="#8c95ce"/><path d="M14.00 77.00 L15.84 82.16 L21.00 84.00 L15.84 85.84 L14.00 91.00 L12.16 85.84 L7.00 84.00 L12.16 82.16 Z" fill="#8c95ce"/></g></g>
+<g id="card-eldritch-mind-properties">
+<text transform="matrix(1.0 0 0 1 177.0 66.20)" x="0" y="0" xml:space="preserve" fill="#3949AB"><tspan font-family="Cinzel" font-size="5.2" font-weight="bold" letter-spacing="0.4">APPLIES</tspan><tspan font-family="'Tiro Bangla'" font-size="6" letter-spacing="0.1" dx="3">to CON saves made</tspan></text>
+<text transform="matrix(1.0 0 0 1 177.0 73.20)" x="0" y="0" xml:space="preserve" font-family="'Tiro Bangla'" font-size="6" fill="#3949AB" letter-spacing="0.1">to maintain Concentration</text>
+<text transform="matrix(1.0 0 0 1 177.0 80.20)" x="0" y="0" xml:space="preserve" fill="#3949AB"><tspan font-family="Cinzel" font-size="5.2" font-weight="bold" letter-spacing="0.4">EFFECT</tspan><tspan font-family="'Tiro Bangla'" font-size="6" letter-spacing="0.1" dx="3">you roll with</tspan></text>
+<text transform="matrix(1.0 0 0 1 177.0 87.20)" x="0" y="0" xml:space="preserve" font-family="'Tiro Bangla'" font-size="6" fill="#3949AB" letter-spacing="0.1">Advantage</text>
+<text transform="matrix(1.0 0 0 1 177.0 94.20)" x="0" y="0" xml:space="preserve" fill="#3949AB"><tspan font-family="Cinzel" font-size="5.2" font-weight="bold" letter-spacing="0.4">ALWAYS</tspan><tspan font-family="'Tiro Bangla'" font-size="6" letter-spacing="0.1" dx="3">on, no action or use</tspan></text>
+<text transform="matrix(1.0 0 0 1 177.0 101.20)" x="0" y="0" xml:space="preserve" font-family="'Tiro Bangla'" font-size="6" fill="#3949AB" letter-spacing="0.1">needed</text>
+</g>
+<g id="card-eldritch-mind-cost">
+<circle cx="13.4" cy="129.3" r="3.6" fill="none" stroke="#3949AB" stroke-width="0.8"/>
+<circle cx="13.4" cy="129.3" r="1.3" fill="#3949AB"/>
+<text transform="matrix(1.073 0 0 1 20.6 126.6)" x="0" y="0" xml:space="preserve" font-family="'Tiro Bangla'" font-size="5.4" font-style="italic" fill="#3949AB" letter-spacing="0.4">Type</text>
+<text transform="matrix(1.000 0 0 1 20.6 134.2)" x="0" y="0" xml:space="preserve" font-family="'Tiro Bangla'" font-size="7.4" fill="#3949AB" letter-spacing="0.3">Passive</text>
+</g>
+<g id="card-eldritch-mind-damage">
+<text transform="matrix(1.073 0 0 1 9.6 147.3)" x="0" y="0" xml:space="preserve" font-family="Cinzel" font-size="9.618" font-weight="500" fill="#3949AB" letter-spacing="0.93">SAVE :</text>
+<text transform="matrix(1.073 0 0 1.4 70.0 147.4)" x="0" y="0" xml:space="preserve" font-family="'Bodoni 72'" font-size="20.895" font-weight="bold" fill="#3949AB" letter-spacing="1.86">ADV.</text>
+</g>
+<g id="card-eldritch-mind-action">
+<text transform="matrix(1.073 0 0 1 258 134.6)" x="0" y="0" xml:space="preserve" font-family="'Tiro Bangla'" font-size="5.6" font-style="italic" fill="#3949AB" letter-spacing="0.5" text-anchor="end">Always on</text>
+<text transform="matrix(1.0 0 0 1 258 147.3)" x="0" y="0" xml:space="preserve" font-family="Cinzel" font-size="11" font-weight="500" fill="#3949AB" letter-spacing="1.0" text-anchor="end">PASSIVE</text>
+</g>
+<g id="card-eldritch-mind-strip">
+<g transform="translate(-532.059 -730.829)"><path d="M544.959 881.029 L789.159 881.029 C790.982 881.029 792.459 882.506 792.459 884.329 L792.459 884.329 C792.459 886.152 790.982 887.629 789.159 887.629 L544.959 887.629 C543.136 887.629 541.659 886.152 541.659 884.329 L541.659 884.329 C541.659 882.506 543.136 881.029 544.959 881.029 Z" fill="#3949AB" fill-opacity="0.16"/><path d="M545.759 882.029 L547.759 883.179 L547.759 885.479 L545.759 886.629 L543.759 885.479 L543.759 883.179 Z M545.759 882.029 L545.759 884.329 M547.759 885.479 L545.759 884.329 M543.759 885.479 L545.759 884.329" fill="none" stroke="#3949AB" stroke-width="0.5" stroke-linejoin="round"/></g>
+<text transform="matrix(1 0 0 1 17.8 155)" x="0" y="0" xml:space="preserve" font-family="Cinzel" font-size="5" font-weight="bold" fill="#3949AB" letter-spacing="0.5">SAVING THROW</text>
+<path d="M72.4 151.4 H72.8 V155.2 H72.4 Z" fill="#3949AB" opacity="0.7"/>
+<text transform="matrix(1 0 0 1 74.8 154.9)" x="0" y="0" xml:space="preserve" font-family="'Tiro Bangla'" font-size="4.90" fill="#3949AB" letter-spacing="0.05">Roll the CON save with Advantage whenever damage threatens your Concentration.</text>
+</g>
+</g></g>
+<g transform="translate(1120 32)"><g id="card-magical-cunning">
+<path d="M10 0 H260 Q270 0 270 10 V152 Q270 162 260 162 H10 Q0 162 0 152 V10 Q0 0 10 0 Z" fill="#9b82cf" stroke="#c9c9c9" stroke-width="0.6"/>
+<path d="M11 4 H259 Q266 4 266 11 V151 Q266 158 259 158 H11 Q4 158 4 151 V11 Q4 4 11 4 Z" fill="#ffffff"/>
+<g id="card-magical-cunning-title">
+<text transform="matrix(0.953 0 0 1.4 135 27.7)" x="0" y="0" xml:space="preserve" font-family="Cinzel" font-size="20" fill="#5E35B1" stroke="#5E35B1" stroke-miterlimit="10" letter-spacing="2.23" text-anchor="middle">MAGICAL CUNNING</text>
+<text transform="matrix(1.073 0 0 1 135 38)" x="0" y="0" xml:space="preserve" font-family="'Tiro Bangla'" font-size="6" font-style="italic" fill="#5E35B1" letter-spacing="2.2" text-anchor="middle">WARLOCK FEATURE</text>
+</g>
+<g id="card-magical-cunning-range">
+<text transform="matrix(0.82 0 0 0.82 44 55.5)" x="0" y="0" xml:space="preserve" font-family="'Tiro Bangla'" font-size="12" fill="#5E35B1" letter-spacing="1.311" text-anchor="middle">Rite</text>
+<text transform="matrix(1.000 0 0 1.12 44 68)" x="0" y="0" xml:space="preserve" font-family="'Bodoni 72'" font-size="13" fill="#5E35B1" letter-spacing="0.8" text-anchor="middle">1 MIN</text>
+<text transform="matrix(1.073 0 0 1 44 75)" x="0" y="0" xml:space="preserve" font-family="'Tiro Bangla'" font-size="5.4" font-style="italic" fill="#5E35B1" letter-spacing="0.6" text-anchor="middle">esoteric rite</text>
+<text transform="matrix(0.82 0 0 0.82 44 90)" x="0" y="0" xml:space="preserve" font-family="'Tiro Bangla'" font-size="12" fill="#5E35B1" letter-spacing="1.311" text-anchor="middle">Regain</text>
+<text transform="matrix(1.000 0 0 1.12 44 102.5)" x="0" y="0" xml:space="preserve" font-family="'Bodoni 72'" font-size="13" fill="#5E35B1" letter-spacing="0.8" text-anchor="middle">HALF</text>
+<text transform="matrix(1.073 0 0 1 44 109.5)" x="0" y="0" xml:space="preserve" font-family="'Tiro Bangla'" font-size="5.4" font-style="italic" fill="#5E35B1" letter-spacing="0.6" text-anchor="middle">Pact Magic slots</text>
+</g>
+<g id="card-magical-cunning-icon" transform="translate(98 48) scale(0.62)"><g><path d="M21 8 H79 Q82 8 82 11 V14 Q82 17 79 17 H21 Q18 17 18 14 V11 Q18 8 21 8 Z" fill="#402478"/><path d="M21 83 H79 Q82 83 82 86 V89 Q82 92 79 92 H21 Q18 92 18 89 V86 Q18 83 21 83 Z" fill="#402478"/><path d="M24.00 17.00 L76.00 17.00 L54.00 50.00 L76.00 83.00 L24.00 83.00 L46.00 50.00 Z" fill="#5E35B1"/><path d="M34.00 24.00 L66.00 24.00 L52.00 44.00 L48.00 44.00 Z" fill="#e8e3f4"/><path d="M36.00 76.00 L64.00 76.00 L54.00 60.00 L46.00 60.00 Z" fill="#e8e3f4"/><path d="M86.00 13.00 L88.40 19.60 L95.00 22.00 L88.40 24.40 L86.00 31.00 L83.60 24.40 L77.00 22.00 L83.60 19.60 Z" fill="#a28ad2"/></g></g>
+<g id="card-magical-cunning-properties">
+<text transform="matrix(1.0 0 0 1 177.0 73.20)" x="0" y="0" xml:space="preserve" fill="#5E35B1"><tspan font-family="Cinzel" font-size="5.2" font-weight="bold" letter-spacing="0.4">RITE</tspan><tspan font-family="'Tiro Bangla'" font-size="6" letter-spacing="0.1" dx="3">perform for 1 minute</tspan></text>
+<text transform="matrix(1.0 0 0 1 177.0 80.20)" x="0" y="0" xml:space="preserve" fill="#5E35B1"><tspan font-family="Cinzel" font-size="5.2" font-weight="bold" letter-spacing="0.4">REGAIN</tspan><tspan font-family="'Tiro Bangla'" font-size="6" letter-spacing="0.1" dx="3">up to half your max</tspan></text>
+<text transform="matrix(1.0 0 0 1 177.0 87.20)" x="0" y="0" xml:space="preserve" font-family="'Tiro Bangla'" font-size="6" fill="#5E35B1" letter-spacing="0.1">Pact Magic slots, rounded up</text>
+<text transform="matrix(1.0 0 0 1 177.0 94.20)" x="0" y="0" xml:space="preserve" fill="#5E35B1"><tspan font-family="Cinzel" font-size="5.2" font-weight="bold" letter-spacing="0.4">RESET</tspan><tspan font-family="'Tiro Bangla'" font-size="6" letter-spacing="0.1" dx="3">once per Long Rest</tspan></text>
+</g>
+<g id="card-magical-cunning-cost">
+<circle cx="13.4" cy="129.3" r="3.6" fill="none" stroke="#5E35B1" stroke-width="0.8"/>
+<circle cx="13.4" cy="129.3" r="1.3" fill="#5E35B1"/>
+<text transform="matrix(1.073 0 0 1 20.6 126.6)" x="0" y="0" xml:space="preserve" font-family="'Tiro Bangla'" font-size="5.4" font-style="italic" fill="#5E35B1" letter-spacing="0.4">Uses</text>
+<text transform="matrix(1.000 0 0 1 20.6 134.2)" x="0" y="0" xml:space="preserve" font-family="'Tiro Bangla'" font-size="7.4" fill="#5E35B1" letter-spacing="0.3">Long Rest</text>
+</g>
+<g id="card-magical-cunning-damage">
+<text transform="matrix(1.073 0 0 1 9.6 147.3)" x="0" y="0" xml:space="preserve" font-family="Cinzel" font-size="9.618" font-weight="500" fill="#5E35B1" letter-spacing="0.93">REGAIN :</text>
+<text transform="matrix(0.872 0 0 1.4 70.0 147.4)" x="0" y="0" xml:space="preserve" font-family="'Bodoni 72'" font-size="20.895" font-weight="bold" fill="#5E35B1" letter-spacing="1.86">SLOTS</text>
+</g>
+<g id="card-magical-cunning-action">
+<text transform="matrix(1.073 0 0 1 258 134.6)" x="0" y="0" xml:space="preserve" font-family="'Tiro Bangla'" font-size="5.6" font-style="italic" fill="#5E35B1" letter-spacing="0.5" text-anchor="end">Takes 1 minute</text>
+<text transform="matrix(1.0 0 0 1 258 147.3)" x="0" y="0" xml:space="preserve" font-family="Cinzel" font-size="11" font-weight="500" fill="#5E35B1" letter-spacing="1.0" text-anchor="end">1 MIN</text>
+</g>
+<g id="card-magical-cunning-strip">
+<g transform="translate(-532.059 -730.829)"><path d="M544.959 881.029 L789.159 881.029 C790.982 881.029 792.459 882.506 792.459 884.329 L792.459 884.329 C792.459 886.152 790.982 887.629 789.159 887.629 L544.959 887.629 C543.136 887.629 541.659 886.152 541.659 884.329 L541.659 884.329 C541.659 882.506 543.136 881.029 544.959 881.029 Z" fill="#5E35B1" fill-opacity="0.16"/><path d="M545.759 882.029 L547.759 883.179 L547.759 885.479 L545.759 886.629 L543.759 885.479 L543.759 883.179 Z M545.759 882.029 L545.759 884.329 M547.759 885.479 L545.759 884.329 M543.759 885.479 L545.759 884.329" fill="none" stroke="#5E35B1" stroke-width="0.5" stroke-linejoin="round"/></g>
+<text transform="matrix(1 0 0 1 17.8 155)" x="0" y="0" xml:space="preserve" font-family="Cinzel" font-size="5" font-weight="bold" fill="#5E35B1" letter-spacing="0.5">NO ROLL</text>
+<path d="M72.4 151.4 H72.8 V155.2 H72.4 Z" fill="#5E35B1" opacity="0.7"/>
+<text transform="matrix(1 0 0 1 74.8 154.9)" x="0" y="0" xml:space="preserve" font-family="'Tiro Bangla'" font-size="5.50" fill="#5E35B1" letter-spacing="0.05">The rite takes a full minute, so it works between fights, not mid-combat.</text>
+</g>
+</g></g>
+<g transform="translate(1400 32)"><g id="card-familiar-attack">
+<path d="M10 0 H260 Q270 0 270 10 V152 Q270 162 260 162 H10 Q0 162 0 152 V10 Q0 0 10 0 Z" fill="#8f85c0" stroke="#c9c9c9" stroke-width="0.6"/>
+<path d="M11 4 H259 Q266 4 266 11 V151 Q266 158 259 158 H11 Q4 158 4 151 V11 Q4 4 11 4 Z" fill="#ffffff"/>
+<g id="card-familiar-attack-title">
+<text transform="matrix(1.062 0 0 1.4 135 27.7)" x="0" y="0" xml:space="preserve" font-family="Cinzel" font-size="20" fill="#4B3B9A" stroke="#4B3B9A" stroke-miterlimit="10" letter-spacing="2.23" text-anchor="middle">FAMILIAR ATTACK</text>
+<text transform="matrix(1.073 0 0 1 135 38)" x="0" y="0" xml:space="preserve" font-family="'Tiro Bangla'" font-size="6" font-style="italic" fill="#4B3B9A" letter-spacing="2.2" text-anchor="middle">PACT OF THE CHAIN</text>
+</g>
+<g id="card-familiar-attack-range">
+<text transform="matrix(0.82 0 0 0.82 44 55.5)" x="0" y="0" xml:space="preserve" font-family="'Tiro Bangla'" font-size="12" fill="#4B3B9A" letter-spacing="1.311" text-anchor="middle">You Forgo</text>
+<text transform="matrix(1.000 0 0 1.12 44 68)" x="0" y="0" xml:space="preserve" font-family="'Bodoni 72'" font-size="13" fill="#4B3B9A" letter-spacing="0.8" text-anchor="middle">1 ATTACK</text>
+<text transform="matrix(0.872 0 0 1 44 75)" x="0" y="0" xml:space="preserve" font-family="'Tiro Bangla'" font-size="5.4" font-style="italic" fill="#4B3B9A" letter-spacing="0.6" text-anchor="middle">from your Attack action</text>
+<text transform="matrix(0.82 0 0 0.82 44 90)" x="0" y="0" xml:space="preserve" font-family="'Tiro Bangla'" font-size="12" fill="#4B3B9A" letter-spacing="1.311" text-anchor="middle">Familiar</text>
+<text transform="matrix(1.000 0 0 1.12 44 102.5)" x="0" y="0" xml:space="preserve" font-family="'Bodoni 72'" font-size="13" fill="#4B3B9A" letter-spacing="0.8" text-anchor="middle">ATTACKS</text>
+<text transform="matrix(1.007 0 0 1 44 109.5)" x="0" y="0" xml:space="preserve" font-family="'Tiro Bangla'" font-size="5.4" font-style="italic" fill="#4B3B9A" letter-spacing="0.6" text-anchor="middle">once, as its Reaction</text>
+</g>
+<g id="card-familiar-attack-icon" transform="translate(98 48) scale(0.62)"><g><path d="M26 66 A24 20 0 1 0 74 66 A24 20 0 1 0 26 66 Z" fill="#4B3B9A"/><path d="M11.54 45.08 A9 13 -20 1 0 28.46 38.92 A9 13 -20 1 0 11.54 45.08 Z" fill="#4B3B9A"/><path d="M29.05 24.94 A9 13 -6 1 0 46.95 23.06 A9 13 -6 1 0 29.05 24.94 Z" fill="#4B3B9A"/><path d="M53.05 23.06 A9 13 6 1 0 70.95 24.94 A9 13 6 1 0 53.05 23.06 Z" fill="#4B3B9A"/><path d="M71.54 38.92 A9 13 20 1 0 88.46 45.08 A9 13 20 1 0 71.54 38.92 Z" fill="#4B3B9A"/><path d="M39 70 A11 8 0 1 0 61 70 A11 8 0 1 0 39 70 Z" fill="#e6e4f1"/><path d="M88.00 82.00 L90.12 87.88 L96.00 90.00 L90.12 92.12 L88.00 98.00 L85.88 92.12 L80.00 90.00 L85.88 87.88 Z" fill="#978dc4"/></g></g>
+<g id="card-familiar-attack-properties">
+<text transform="matrix(1.0 0 0 1 177.0 59.20)" x="0" y="0" xml:space="preserve" fill="#4B3B9A"><tspan font-family="Cinzel" font-size="5.2" font-weight="bold" letter-spacing="0.4">WHEN</tspan><tspan font-family="'Tiro Bangla'" font-size="6" letter-spacing="0.1" dx="3">you take the Attack</tspan></text>
+<text transform="matrix(1.0 0 0 1 177.0 66.20)" x="0" y="0" xml:space="preserve" font-family="'Tiro Bangla'" font-size="6" fill="#4B3B9A" letter-spacing="0.1">action</text>
+<text transform="matrix(1.0 0 0 1 177.0 73.20)" x="0" y="0" xml:space="preserve" fill="#4B3B9A"><tspan font-family="Cinzel" font-size="5.2" font-weight="bold" letter-spacing="0.4">YOU</tspan><tspan font-family="'Tiro Bangla'" font-size="6" letter-spacing="0.1" dx="3">give up one of your</tspan></text>
+<text transform="matrix(1.0 0 0 1 177.0 80.20)" x="0" y="0" xml:space="preserve" font-family="'Tiro Bangla'" font-size="6" fill="#4B3B9A" letter-spacing="0.1">own attacks</text>
+<text transform="matrix(1.0 0 0 1 177.0 87.20)" x="0" y="0" xml:space="preserve" fill="#4B3B9A"><tspan font-family="Cinzel" font-size="5.2" font-weight="bold" letter-spacing="0.4">FAMILIAR</tspan><tspan font-family="'Tiro Bangla'" font-size="6" letter-spacing="0.1" dx="3">makes one attack</tspan></text>
+<text transform="matrix(1.0 0 0 1 177.0 94.20)" x="0" y="0" xml:space="preserve" font-family="'Tiro Bangla'" font-size="6" fill="#4B3B9A" letter-spacing="0.1">with its Reaction</text>
+<text transform="matrix(1.0 0 0 1 177.0 101.20)" x="0" y="0" xml:space="preserve" fill="#4B3B9A"><tspan font-family="Cinzel" font-size="5.2" font-weight="bold" letter-spacing="0.4">SUMMON</tspan><tspan font-family="'Tiro Bangla'" font-size="6" letter-spacing="0.1" dx="3">cast Find Familiar</tspan></text>
+<text transform="matrix(1.0 0 0 1 177.0 108.20)" x="0" y="0" xml:space="preserve" font-family="'Tiro Bangla'" font-size="6" fill="#4B3B9A" letter-spacing="0.1">as a Magic action, no slot</text>
+</g>
+<g id="card-familiar-attack-cost">
+<circle cx="13.4" cy="129.3" r="3.6" fill="none" stroke="#4B3B9A" stroke-width="0.8"/>
+<circle cx="13.4" cy="129.3" r="1.3" fill="#4B3B9A"/>
+<text transform="matrix(1.073 0 0 1 20.6 126.6)" x="0" y="0" xml:space="preserve" font-family="'Tiro Bangla'" font-size="5.4" font-style="italic" fill="#4B3B9A" letter-spacing="0.4">Needs</text>
+<text transform="matrix(1.000 0 0 1 20.6 134.2)" x="0" y="0" xml:space="preserve" font-family="'Tiro Bangla'" font-size="7.4" fill="#4B3B9A" letter-spacing="0.3">Chain pact</text>
+</g>
+<g id="card-familiar-attack-damage">
+<text transform="matrix(1.073 0 0 1 9.6 147.3)" x="0" y="0" xml:space="preserve" font-family="Cinzel" font-size="9.618" font-weight="500" fill="#4B3B9A" letter-spacing="0.93">ROLL :</text>
+<text transform="matrix(1.073 0 0 1.4 70.0 147.4)" x="0" y="0" xml:space="preserve" font-family="'Bodoni 72'" font-size="20.895" font-weight="bold" fill="#4B3B9A" letter-spacing="1.86">D20</text>
+<text transform="matrix(1.000 0 0 0.9 127.38 146.2)" x="0" y="0" xml:space="preserve" font-family="'Tiro Bangla'" font-size="9.4" fill="#4B3B9A">+ its bonus</text>
+</g>
+<g id="card-familiar-attack-action">
+<text transform="matrix(1.073 0 0 1 258 134.6)" x="0" y="0" xml:space="preserve" font-family="'Tiro Bangla'" font-size="5.6" font-style="italic" fill="#4B3B9A" letter-spacing="0.5" text-anchor="end">Familiar’s Reaction</text>
+<text transform="matrix(1.0 0 0 1 258 147.3)" x="0" y="0" xml:space="preserve" font-family="Cinzel" font-size="11" font-weight="500" fill="#4B3B9A" letter-spacing="1.0" text-anchor="end">REACTION</text>
+</g>
+<g id="card-familiar-attack-strip">
+<g transform="translate(-532.059 -730.829)"><path d="M544.959 881.029 L789.159 881.029 C790.982 881.029 792.459 882.506 792.459 884.329 L792.459 884.329 C792.459 886.152 790.982 887.629 789.159 887.629 L544.959 887.629 C543.136 887.629 541.659 886.152 541.659 884.329 L541.659 884.329 C541.659 882.506 543.136 881.029 544.959 881.029 Z" fill="#4B3B9A" fill-opacity="0.16"/><path d="M545.759 882.029 L547.759 883.179 L547.759 885.479 L545.759 886.629 L543.759 885.479 L543.759 883.179 Z M545.759 882.029 L545.759 884.329 M547.759 885.479 L545.759 884.329 M543.759 885.479 L545.759 884.329" fill="none" stroke="#4B3B9A" stroke-width="0.5" stroke-linejoin="round"/></g>
+<text transform="matrix(1 0 0 1 17.8 155)" x="0" y="0" xml:space="preserve" font-family="Cinzel" font-size="5" font-weight="bold" fill="#4B3B9A" letter-spacing="0.5">ATTACK ROLL</text>
+<path d="M72.4 151.4 H72.8 V155.2 H72.4 Z" fill="#4B3B9A" opacity="0.7"/>
+<text transform="matrix(1 0 0 1 74.8 154.9)" x="0" y="0" xml:space="preserve" font-family="'Tiro Bangla'" font-size="5.50" fill="#4B3B9A" letter-spacing="0.05">The familiar rolls its own attack bonus against the target’s AC.</text>
+</g>
+</g></g>
+</g>
+<metadata><c2pa:manifest>AAAWgmp1bWIAAAAeanVtZGMycGEAEQAQgAAAqgA4m3EDYzJwYQAAABZcanVtYgAAAEdqdW1kYzJtYQARABCAAACqADibcQN1cm46YzJwYTowOWE0MmNhNS1lY2Y0LTQ3NDgtYmNmMy02NmMwNzIyZTc4NzQAAAADl2p1bWIAAAApanVtZGMyYXMAEQAQgAAAqgA4m3EDYzJwYS5hc3NlcnRpb25zAAAAALxqdW1iAAAARGp1bWRjYm9yABEAEIAAAKoAOJtxE2MycGEuaW5ncmVkaWVudC52MwAAAAAYYzJzaPqawHpPFeD44motAu2SAm4AAABwY2JvcqNpZGM6Zm9ybWF0bWltYWdlL3N2Zyt4bWxqaW5zdGFuY2VJRHgseG1wOmlpZDplYzQyNDJhYS03Y2VjLTRhYjEtOTRhMy1iMmQ3NWY3YWJlZmVscmVsYXRpb25zaGlwaHBhcmVudE9mAAAB4mp1bWIAAABBanVtZGNib3IAEQAQgAAAqgA4m3ETYzJwYS5hY3Rpb25zLnYyAAAAABhjMnNopmUIkq7qlmt/5oTog393JwAAAZljYm9yomdhY3Rpb25zgqJmYWN0aW9ua2MycGEub3BlbmVkanBhcmFtZXRlcnOha2luZ3JlZGllbnRzgaJjdXJseC1zZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmluZ3JlZGllbnQudjNkaGFzaFgg8cX8/XDLn9692N3objvHomH1t115sI/a/ljNxpz0PImkZmFjdGlvbngdY29tLmFudGhyb3BpYy5jbGF1ZGUucHJvdmlkZWRqcGFyYW1ldGVyc6F4H2NvbS5hbnRocm9waWMub3JpZ2luLWNvbmZpZGVuY2VndW5rbm93bmtkZXNjcmlwdGlvbnhmQ2xhdWRlIHByb3ZpZGVkIHRoaXMgZmlsZSBhdCB0aGUgcmVxdWVzdCBvZiBhIHVzZXIgYW5kIG1heSBoYXZlIGNyZWF0ZWQgb3IgbW9kaWZpZWQgdGhlIGZpbGUgY29udGVudHMubXNvZnR3YXJlQWdlbnShZG5hbWVmQ2xhdWRlcmFsbEFjdGlvbnNJbmNsdWRlZPUAAADIanVtYgAAAEBqdW1kY2JvcgARABCAAACqADibcRNjMnBhLmhhc2guZGF0YQAAAAAYYzJzaOigKEYVHN6Xy4UrpSFx4PQAAACAY2JvcqVjYWxnZnNoYTI1NmNwYWRMAAAAAAAAAAAAAAAAZGhhc2hYIBoD5ntiMwKJFVVQ2xEE6rJcpM+C959cVOG/e8IjBESKZG5hbWVuanVtYmYgbWFuaWZlc3RqZXhjbHVzaW9uc4GiZXN0YXJ0GaiQZmxlbmd0aBkeBAAAAj5qdW1iAAAAJ2p1bWRjMmNsABEAEIAAAKoAOJtxA2MycGEuY2xhaW0udjIAAAACD2Nib3KlY2FsZ2ZzaGEyNTZpc2lnbmF0dXJleE1zZWxmI2p1bWJmPS9jMnBhL3VybjpjMnBhOjA5YTQyY2E1LWVjZjQtNDc0OC1iY2YzLTY2YzA3MjJlNzg3NC9jMnBhLnNpZ25hdHVyZWppbnN0YW5jZUlEeCx4bXA6aWlkOmE2MDg5MTE3LWE4MWUtNDUxNy1iYTQyLTEzZWQ1OGI2NGIxZHJjcmVhdGVkX2Fzc2VydGlvbnODomN1cmx4LXNlbGYjanVtYmY9YzJwYS5hc3NlcnRpb25zL2MycGEuaW5ncmVkaWVudC52M2RoYXNoWCDxxfz9cMuf3r3Y3ehuO8eiYfW3XXmwj9r+WM3GnPQ8iaJjdXJseCpzZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmFjdGlvbnMudjJkaGFzaFggaLjPYpJu5hV5aAYknAdjG0E0hu5ZZSkumjos8AKk5mSiY3VybHgpc2VsZiNqdW1iZj1jMnBhLmFzc2VydGlvbnMvYzJwYS5oYXNoLmRhdGFkaGFzaFggyhLJv/wLZHWCs2gXzgeYK2EzKVPdkVGtB6PaJPInRKR0Y2xhaW1fZ2VuZXJhdG9yX2luZm+jZG5hbWVvQW50aHJvcGljIEZpbGVzZ3ZlcnNpb25lMS4wLjBrc3BlY1ZlcnNpb25lMi40LjAAABA4anVtYgAAAChqdW1kYzJjcwARABCAAACqADibcQNjMnBhLnNpZ25hdHVyZQAAABAIY2JvctKEWQISogEmGCFZAgowggIGMIIBjaADAgECAhRA5aAK7sI50L64g/oGQgU9Z1UTADAKBggqhkjOPQQDAzBJMRcwFQYDVQQKEw5BbnRocm9waWMsIFBCQzEuMCwGA1UEAxMlQW50aHJvcGljIENvbnRlbnQgQ3JlZGVudGlhbHMgUm9vdCBDQTAeFw0yNjA4MDcxODQzNTZaFw0yODA4MDYxOTQzNTZaMEQxFzAVBgNVBAoTDkFudGhyb3BpYywgUEJDMSkwJwYDVQQDEyBBbnRocm9waWMgQ2xhdWRlIENvbnRlbnQgU2lnbmluZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJh6CmvLUBgFFNU0vUKlOVtE6djd17L5SuwX0LemFisBM3dkd/3cyjxFA3Qo5S46fX0/ihY0VZ7mfb9KF703t5OjWDBWMA4GA1UdDwEB/wQEAwIHgDAVBgNVHSUEDjAMBgorBgEEAYPoXgIBMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUzlHiBIFOZFsj+OPEz5o+nMHXXMIwCgYIKoZIzj0EAwMDZwAwZAIwMXMdFJ4BetLLVY7ORuE9noqbbAZOZn/aArXyTwFAZfKrPzxF2vPoJNf1+UCdg1XGAjBwX1zd9WGqYkqmL5SFqw1QySjr1zJfpJM9+1rdDwSPLMOPOjKuiXjoU/pUUeG9RwmhY3BhZFkNngAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPZYQFItayWPUCdSLhIGzsCPMh2gClA7Yg7JWkAAKj7rjFV4q69QI8nXP90jVGjpSgFbFHBphZZjgwONFSf75z5kBJs=</c2pa:manifest></metadata></svg>
